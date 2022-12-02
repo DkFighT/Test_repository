@@ -272,7 +272,6 @@ textarea{
 .row span, .head_row span{
     text-overflow: ellipsis;
     overflow: hidden;
-    white-space: nowrap;
     width: 12.5%;
     min-height: 30px;
     text-align: center;
